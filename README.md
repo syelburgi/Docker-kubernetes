@@ -13,3 +13,4 @@ Step to Deploy your container on aws instance.
    b. kubectl create -f <pod-hello.yml>
    c. create a service file 
    d. kubectl create -f <service-hello.yml>
+
